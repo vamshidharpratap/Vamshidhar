@@ -58,10 +58,6 @@ I'm Vamshidhar Pratap, a passionate <em><b>Data Science Student</b> <img src="ht
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshidhar&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
 -----
 Credits: [Vamshidhar Pratap](https://github.com/Vamshidhar)
 
