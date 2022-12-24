@@ -17,12 +17,12 @@ I'm Vamshidhar Pratap, a passionate <em><b>Data Science Student</b> <img src="ht
 
 - 📚 I'm a Postgraduate studying **Web and Data Science** at the [University of Koblenz, Germany](https://www.uni-koblenz-landau.de/en/studies/before-studying/our-degree-programs/masters-degree-programs/web-data-science)
 
-- 🧠 Currently learning about Web Science,Machine Learning,Artificial intelligence and Data Science.
+- 🧠 Currently learning about Web Science,Machine Learning, Artificial intelligence and Data Science.
 
 - 👯 I’m looking for an internship.
 
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
-- Outside tech, 📺 I love to watch movies, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📺 I love to watch movies, 🎵 listen to music and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="pratap6550@gmail.com">pratap6550@gmail.com</a>
 
 #### Languages:
